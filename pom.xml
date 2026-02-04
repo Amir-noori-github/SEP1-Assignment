@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>Task01_week3_Junit</module>
+        <module>Task02_week4_Calculator</module>
     </modules>
 
     <properties>
