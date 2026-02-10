@@ -9,6 +9,7 @@
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/Task01_week4_calculator/pom.xml" />
         <option value="$PROJECT_DIR$/Task02_week4_Calculator/pom.xml" />
       </set>
     </option>
